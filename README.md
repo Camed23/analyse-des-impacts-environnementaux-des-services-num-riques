@@ -1,12 +1,9 @@
-Analyse des Impacts Environnementaux des Services Numériques
-Description :
 Ce projet explore les impacts environnementaux de divers services numériques à l'aide d'algorithmes de Machine Learning.
 Il inclut la génération de données artificielles, l'analyse de la consommation énergétique,
 la classification en fonction de l'empreinte carbone et la segmentation des services numériques selon des critères de similarité.
 Les méthodes utilisées comprennent la régression linéaire, KNN, K-means, et la classification ascendante hiérarchique (CAH).
 
 Compétences et technologies :
-
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 Régression linéaire pour la prédiction d'émissions de CO₂
 Classification (KNN) pour catégoriser l'efficacité énergétique
